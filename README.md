@@ -1,6 +1,6 @@
- Olá, prazer eu sou o Yago.🇧🇷
+ Olá, prazer eu sou o Yago
 <br>
- Hola mucho gusto, soy Yago.🇪🇸
+ Hola mucho gusto, soy Yago
 
  <div>
    <a href="https://github.com/yagocastelao">
