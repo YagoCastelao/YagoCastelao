@@ -22,4 +22,6 @@
   <a href="https://instagram.com/casalcastelao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/yagocastelao" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:yago_castelau@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+ <a href="www.linkedin.com/in/yagocimacastelao" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+ <a href="https://x.com/yagocastelau" target="_blank"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fx.com%2Fyagocastelau" target="_blank"></a>
 </div>
