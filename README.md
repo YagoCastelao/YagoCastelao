@@ -1,6 +1,7 @@
  Hello, nice to meet you, I'm Yago 👽.
  
 📟 I’m currently working at OMD Tech, as a Full Stack Developer, developing a Amazon Store Manager Multilevel.
+<br>
 📈 I'm currently mastering JavaScript and Angular.
 
  <div>
@@ -25,10 +26,9 @@
 </div>
  
 <br>
-
-<div>
- ##🌐 Socials
+##🌐 Socials
  ---
+<div>
  <a href="https://instagram.com/casalcastelao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/yagocastelao" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
  <a href = "mailto:yago_castelau@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
