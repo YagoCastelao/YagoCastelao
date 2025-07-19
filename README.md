@@ -7,6 +7,8 @@
 <br>
 📈 I'm currently mastering JavaScript and Angular.
 
+<br>
+
  <div>
    <a href="https://github.com/yagocastelao">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagocastelao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
