@@ -5,8 +5,8 @@
  <div>
    <a href="https://github.com/yagocastelao">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagocastelao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagocastelao&background=0D1117&border=30A3DC&stroke=38bdae&ring=E94D5F&fire=E94D5F&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&dates=FFFFFF" alt="GitHub Streak Stats"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagocastelao&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagocastelao&background=1a1b27&border=414868&stroke=414868&ring=7aa2f7&fire=7aa2f7&currStreakLabel=a9b1d6&sideLabels=a9b1d6&currStreakNum=a9b1d6&dates=a9b1d6&sideNums=a9b1d6" alt="GitHub Streak Stats"/>
 </div>
     
 <div style="display: inline-block"><br>
