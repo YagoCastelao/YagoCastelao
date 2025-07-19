@@ -10,6 +10,12 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagocastelao&layout=compact&langs_count=6&theme=tokyonight"/>
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=yagocastelao&background=1a1b27&border=414868&stroke=414868&ring=E94D5F&fire=E94D5F&currStreakLabel=a9b1d6&sideLabels=a9b1d6&currStreakNum=a9b1d6&dates=a9b1d6&sideNums=a9b1d6" alt="GitHub Streak Stats"/>
 </div>
+
+<br>
+
+## 📊 Tech Stack
+
+---
     
 <div style="display: inline-block"><br>
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -26,9 +32,10 @@
 </div>
  
 <br>
-##🌐 Socials
 
-___
+## 🌐 Socials
+
+---
 
 <div> 
   <a href="https://instagram.com/casalcastelao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
