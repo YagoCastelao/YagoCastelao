@@ -1,6 +1,7 @@
- Olá, prazer eu sou o Yago
-<br>
- Hola mucho gusto, soy Yago
+ Hello, nice to meet you, I'm Yago 👽.
+ 
+📟 I’m currently working at OMD Tech, as a Full Stack Developer, developing a Amazon Store Manager Multilevel.
+📈 I'm currently mastering JavaScript and Angular.
 
  <div>
    <a href="https://github.com/yagocastelao">
@@ -25,9 +26,11 @@
  
 <br>
   
-<div> 
-  <a href="https://instagram.com/casalcastelao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<div>
+  # 🌐 Socials
+ 
+ <a href="https://instagram.com/casalcastelao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/yagocastelao" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:yago_castelau@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
+ <a href = "mailto:yago_castelau@hotmail.com"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=outlook&logoColor=white" target="_blank"></a>
  <a href="www.linkedin.com/in/yagocimacastelao" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
