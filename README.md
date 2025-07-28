@@ -14,8 +14,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagocastelao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagocastelao&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=yagocastelao1&theme=elegant)](https://git.io/streak-stats)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=yagocastelao1&theme=elegant)
 <br>
 
 ## 📊 Tech Stack
