@@ -14,7 +14,19 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagocastelao&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagocastelao&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
-<img src="https://streak-stats.demolab.com?user=yagocastelao" alt="GitHub Streak Stats"/>
+<img src="https://streak-stats.demolab.com?user=yagocastelao
+&theme=tokyonight
+&background=1a1b27
+&border=414868
+&stroke=414868
+&ring=E94D5F
+&fire=E94D5F
+&currStreakLabel=E94D5F
+&sideLabels=a9b1d6
+&currStreakNum=E94D5F
+&dates=a9b1d6
+&sideNums=a9b1d6" alt="GitHub Streak Stats"/>
+
 <br>
 
 ## 📊 Tech Stack
