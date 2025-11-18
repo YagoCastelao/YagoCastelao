@@ -5,7 +5,7 @@
  
 📟 I’m currently working at OMD Tech, as a Full Stack Developer, developing a Amazon Store Manager Multilevel.
 <br>
-📈 I'm currently mastering JavaScript and Angular.
+📈 I'm currently mastering JavaScript and React.
 
 <br>
 
