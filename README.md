@@ -62,7 +62,7 @@
 ## 🌐 Socials
 
 
-<div align="center">
+<div align="">
   <a href="https://wa.me/34692289484" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" alt="WhatsApp" width="40px" style="margin: 0 5px;">
   </a>
@@ -92,6 +92,6 @@
   </a>
   
   <a href="https://www.linkedin.com/in/yagocimacastelao" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40px" style="margin: 0 5px;">
+    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="LinkedIn" height="40px" style="margin: 0 5px;">
   </a>
 </div>
