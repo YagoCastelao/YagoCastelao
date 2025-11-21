@@ -1,5 +1,7 @@
- Hello, nice to meet you, I'm Yago 👽.
- <br>
+Hello, nice to meet you, I'm Yago 👽.
+<img src="https://img.icons8.com/?size=100&id=p5u8Ay0r7ngq&format=png&color=000000" alt="Bandeira do Brasil" width="25px" style="vertical-align: middle; margin-left: 8px;">
+<img src="https://img.icons8.com/?size=100&id=TVBKQZNAz3c0&format=png&color=000000" alt="Bandeira da Espanha" width="25px" style="vertical-align: middle; margin-left: 5px;">
+<br>
 
 ## 💥 About me
  
@@ -27,7 +29,6 @@
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Next.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Tailwind" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg">
   <img align="center" alt="Vite" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vite/vite-original.svg">
 </div>
@@ -39,7 +40,6 @@
     
 <div style="display: inline-block"><br>
 <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
@@ -50,7 +50,7 @@
 ## 🌐 Socials
 
 
-<div align="">
+<div align=""><br>
   <a href="https://wa.me/34692289484" target="_blank">
     <img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" alt="WhatsApp" width="30px" style="margin: 0 5px;">
   </a>
