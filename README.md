@@ -1,6 +1,6 @@
-Hello, nice to meet you, I'm Yago 👽.
-<img src="https://img.icons8.com/?size=100&id=p5u8Ay0r7ngq&format=png&color=000000" alt="Bandeira do Brasil" width="25px" style="vertical-align: middle; margin-left: 8px;">
-<img src="https://img.icons8.com/?size=100&id=TVBKQZNAz3c0&format=png&color=000000" alt="Bandeira da Espanha" width="25px" style="vertical-align: middle; margin-left: 5px;">
+Hello, nice to meet you, I'm Yago 👽
+<img src="https://img.icons8.com/?size=100&id=p5u8Ay0r7ngq&format=png&color=000000" alt="Bandeira do Brasil" width="15px" style="vertical-align: middle; margin-left: 8px;">
+<img src="https://img.icons8.com/?size=100&id=TVBKQZNAz3c0&format=png&color=000000" alt="Bandeira da Espanha" width="15px" style="vertical-align: middle; margin-left: 5px;">
 <br>
 
 ## 💥 About me
