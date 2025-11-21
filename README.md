@@ -62,9 +62,36 @@
 ## 🌐 Socials
 
 
-<div> 
-  <a href="https://instagram.com/casalcastelao" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/yagocastelao" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:yago.castelao@icloud.com"><img src="https://img.shields.io/badge/-iCloud-%23007AFF?style=for-the-badge&logo=icloud&logoColor=white" target="_blank"></a>
- <a href="www.linkedin.com/in/yagocimacastelao" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<div align="center">
+  <a href="https://wa.me/34692289484" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=16713&format=png&color=000000" alt="WhatsApp" width="40px" style="margin: 0 5px;">
+  </a>
+  
+  <a href="https://www.instagram.com/yagocastelao" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=32323&format=png&color=000000" alt="Instagram" width="40px" style="margin: 0 5px;">
+  </a>
+  
+  <a href="https://www.facebook.com/share/1TwxzHLqfi/?mibextid=wwXIfr" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" alt="Facebook" width="40px" style="margin: 0 5px;">
+  </a>
+  
+  <a href="https://t.me/yagocastelao" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000" alt="Telegram" width="40px" style="margin: 0 5px;">
+  </a>
+  
+  <a href="https://x.com/yagocastelau" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=cMRBi0rI3iwb&format=png&color=000000" alt="X/Twitter" width="40px" style="margin: 0 5px;">
+  </a>
+  
+  <a href="mailto:yago.castelao@icloud.com" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=19408&format=png&color=000000" alt="Email" width="40px" style="margin: 0 5px;">
+  </a>
+  
+  <a href="https://discord.gg/yagocastelao" target="_blank">
+    <img src="https://img.icons8.com/?size=100&id=30998&format=png&color=000000" alt="Discord" height="40px" style="margin: 0 5px;">
+  </a>
+  
+  <a href="https://www.linkedin.com/in/yagocimacastelao" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="40px" style="margin: 0 5px;">
+  </a>
 </div>
